@@ -1,0 +1,71 @@
+body{
+    margin-left: 5%;
+    margin-right: 25%;
+    background-color: rgb(245, 235, 220);
+    font-size: larger;
+}
+
+.nav-pane{
+    background-color: blanchedalmond;
+    width: 20%;
+    position: fixed;
+    top: 15px;
+    right: 10px
+}
+
+.top-heading{
+    background-color: rgb(210, 99, 82);
+    padding: 5px;
+}
+
+.main-heading{
+    text-align: center;
+    color: rgb(16, 58, 4);
+    font-variant: bold;
+}
+
+.introductory{
+    text-align: center;
+}
+
+.content{
+    text-align: justify;
+}
+
+.latin{
+    font-style: italic;
+    color: rgb(27, 63, 12);
+}
+
+.captions{
+    width: 350px;
+    text-align: center;
+    font-style: italic;
+    padding-right: 5px;
+}
+
+.citation{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-style: italic;
+    text-align: center;
+}
+
+.headings{
+    text-align: center;
+    margin-top: 1%;
+}
+
+img{
+    padding-right: 15px;
+}
+
+a:visited{
+    color:rgb(160, 46, 21)
+}
+
+a:link{
+    color:rgb(53, 117, 35)
+}
